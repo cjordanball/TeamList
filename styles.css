@@ -1,0 +1,26 @@
+.goSeek {
+  height: 20px;
+  width: 100px;
+  border-radius: 10px;
+  background-color: green;
+  text-align: center;
+  color: white;
+  font-variant;
+}
+
+.goSeek:hover {
+  border-width: 2px;
+  border-color: yellow;
+  border-style: solid;
+  cursor: pointer;
+}
+
+.offSeek {
+  height: 20px;
+  width: 100px;
+  border-radius: 10px;
+  background-color: black;
+  text-align: center;
+  color: black;
+  font-variant;
+}
